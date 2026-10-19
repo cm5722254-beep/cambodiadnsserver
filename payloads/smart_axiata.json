@@ -1,0 +1,5 @@
+{
+  "network": "Smart Axiata Cambodia",
+  "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+  "sni": "smart.com.kh"
+}
