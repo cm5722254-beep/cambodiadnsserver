@@ -1,0 +1,7 @@
+{
+  "regions": [
+    { "id": "kh-pnh", "name": "Phnom Penh", "latency_ms": 12 },
+    { "id": "kh-rep", "name": "Siem Reap", "latency_ms": 18 },
+    { "id": "sg-sin", "name": "Singapore Low-Ping", "latency_ms": 28 }
+  ]
+}
