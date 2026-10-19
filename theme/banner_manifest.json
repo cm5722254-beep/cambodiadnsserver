@@ -1,0 +1,12 @@
+{
+  "banner": {
+    "file": "aw.png",
+    "dimensions": [1500, 500],
+    "badge": "CHM CAMBODIA DNS TEAM",
+    "members": {
+      "admin": "@NintPlexminiapp",
+      "dev": "@Chenananime",
+      "testing": "@MaxMoeng"
+    }
+  }
+}
