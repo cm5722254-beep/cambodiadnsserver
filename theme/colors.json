@@ -1,0 +1,12 @@
+{
+  "theme_name": "Black & Gold VIP",
+  "colors": {
+    "primary": "#DAA520",
+    "primary_dark": "#B8860B",
+    "primary_light": "#FFD700",
+    "background": "#0C0C0F",
+    "surface": "#16161C",
+    "on_surface": "#F5F5F0",
+    "accent_cyan": "#00E5FF"
+  }
+}
