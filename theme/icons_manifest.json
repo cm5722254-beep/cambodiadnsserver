@@ -1,0 +1,8 @@
+{
+  "app_icon": {
+    "name": "CHM 3D Gold Lion",
+    "dimensions": [1099, 1099],
+    "format": "PNG",
+    "target_drawables": ["icon_main.png", "start_up.png", "fr.png", "ahpaim.png"]
+  }
+}
