@@ -1,0 +1,7 @@
+{
+  "slowdns": {
+    "domain": "dns.chm-cambodia.net",
+    "nameserver": "ns1.chm-cambodia.net",
+    "listen_port": 53
+  }
+}
