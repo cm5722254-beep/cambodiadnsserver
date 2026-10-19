@@ -1,0 +1,6 @@
+{
+  "primary_resolvers": [
+    { "name": "Cambodia Edge DNS 1", "ip": "1.1.1.1", "port": 53 },
+    { "name": "Cambodia Edge DNS 2", "ip": "8.8.8.8", "port": 53 }
+  ]
+}
