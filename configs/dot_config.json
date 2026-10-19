@@ -1,0 +1,6 @@
+{
+  "dot_servers": [
+    { "domain": "one.one.one.one", "port": 853 },
+    { "domain": "dns.google", "port": 853 }
+  ]
+}
