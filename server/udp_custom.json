@@ -1,0 +1,7 @@
+{
+  "udp_forwarder": {
+    "enabled": true,
+    "listen_port": 7300,
+    "forward_dns": "1.1.1.1:53"
+  }
+}
