@@ -1,0 +1,6 @@
+{
+  "buttons": {
+    "disconnected": { "file": "a.png", "color": "Dark Titanium with Gold Rim" },
+    "connected": { "file": "aaaaa.png", "color": "Radiant Neon Gold Bezel" }
+  }
+}
