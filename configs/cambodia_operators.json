@@ -1,0 +1,7 @@
+{
+  "operators": [
+    { "name": "Smart", "code": "45606", "mcc": "456", "mnc": "06" },
+    { "name": "Cellcard", "code": "45618", "mcc": "456", "mnc": "18" },
+    { "name": "Metfone", "code": "45608", "mcc": "456", "mnc": "08" }
+  ]
+}
