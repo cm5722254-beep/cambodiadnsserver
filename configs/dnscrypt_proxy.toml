@@ -1,0 +1,5 @@
+[dnscrypt]
+listen_addresses = ['127.0.0.1:5353']
+server_names = ['cloudflare', 'google']
+timeout = 2500
+keepalive = 30
