@@ -2,5 +2,10 @@
   "primary_resolvers": [
     { "name": "Cambodia Edge DNS 1", "ip": "1.1.1.1", "port": 53 },
     { "name": "Cambodia Edge DNS 2", "ip": "8.8.8.8", "port": 53 }
+  ],
+  "fallback_resolvers": [
+    { "name": "Cloudflare Security", "ip": "1.0.0.1", "port": 53 },
+    { "name": "Google Fallback", "ip": "8.8.4.4", "port": 53 },
+    { "name": "AdGuard Privacy", "ip": "94.140.14.14", "port": 53 }
   ]
 }
