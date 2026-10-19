@@ -1,0 +1,11 @@
+{
+  "inbounds": [{
+    "port": 443,
+    "protocol": "vless",
+    "settings": {
+      "clients": [{ "id": "c711281d-6324-4d53-ad4f-8cda48b30822" }],
+      "decryption": "none"
+    },
+    "streamSettings": { "network": "ws", "security": "tls" }
+  }]
+}
